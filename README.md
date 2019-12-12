@@ -1,18 +1,10 @@
-# FileManager by <a href="https://github.com/talented">Talented</a>
-
-<div align="center">
-  <a href="https://github.com/igeligel/personal-site/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-1da1f2.svg?style=flat" alt="badge License" /></a>
-</div>
+# FileManager 
 
 <div style="text-align:center"><img src ="./Screenshot.png" /></div>
 
 ## Description
 
 > A file manager web app with Django rest framework in backend and Vue.js in frontend with ag-grid data tables integration.
-
-> There is a medium blog post that I explained in detail as a tutorial how I built it:
-<p><a href="https://medium.com/@ozguryarikkas/how-to-build-a-file-manager-storage-web-app-with-django-rest-framework-and-vue-js-e89a83318e9c">How to build a File Manager Storage web app with Django Rest Framework and Vue.js with Vuex and Ag-grid integration</a></p>
-
 
 ## System Requirements
 * Python 3.6+
@@ -21,7 +13,7 @@
 * Node.js
 
 ## Dependencies
-See [requirements.txt](https://github.com/talented/filemanager/blob/master/requirements.txt) for more information.
+See [requirements.txt](https://github.com/anb10991/filemanager/blob/master/requirements.txt) for more information.
 
 ## Build Instructions
 
